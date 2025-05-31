@@ -1,4 +1,4 @@
-<h1 align="center">Full-Stack Web & Desktop Backend Developer</h2>
+<h1 align="center">Full-Stack Web & Desktop Backend Developer</h1>
 
 ###
 
