@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">————————————————————————————————————————————————————</h3>
+<h3 align="left">——————————————————————————————————————————————————</h3>
 
 ###
 
@@ -27,11 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
 </div>
 
