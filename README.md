@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">——————————————————————————————————————————————————————————</h3>
+<h3 align="left">————————————————————————————————————————————————————</h3>
 
 ###
 
@@ -33,7 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
 </div>
 
 ###
