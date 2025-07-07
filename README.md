@@ -1,4 +1,4 @@
-# <img src="https://github.com/Erxsdev/Black-Cat-GIFs/blob/5a6252cf97948c7d3e31873528561ce32ae1ed71/black-cat.gif" width="28px"> <img width="50%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Deniz."><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=Erxsdev&color=151515">
+# <img src="https://github.com/Erxsdev/erxsdev/blob/9515e4039b55b012d3f9f947ef5e47ce42789f90/black-cat.gif" width="28px"> <img width="50%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Deniz."><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=Erxsdev&color=151515">
 
 <div align="center">
 
@@ -20,7 +20,7 @@ Hello, I'm Deniz! I'm a passionate Full-Stack Web & Desktop Backend Developer ba
 
 ## • My Stats
 
-<img width="25%" align="left" src="https://github.com/Erxsdev/Erxsderv-Profile-More/blob/0f8be44879b522fd97be7077eb2405446be3e51c/monthelt.png">
+<img width="25%" align="left" src="https://github.com/Erxsdev/erxsdev/blob/9515e4039b55b012d3f9f947ef5e47ce42789f90/monthelt.png">
 
 <br />
 
@@ -30,6 +30,6 @@ Hello, I'm Deniz! I'm a passionate Full-Stack Web & Desktop Backend Developer ba
 <img width="40%" src="https://nirzak-streak-stats.vercel.app/?user=erxsdev&theme=dark&hide_border=true">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erxsdev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 
-<h2 align="left" > • I'm Listening Right Now </h2>
+<h2 align="left" >                          • I'm Listening Right Now </h2>
 
 <img  align="center" width="40%" src="https://count.getloli.com/get/@:Erxsdev?theme=asoul">
