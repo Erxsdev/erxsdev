@@ -1,19 +1,35 @@
-<h1 align="center">Full-Stack Web & Desktop Backend Developer</h1>
+# <img src="https://github.com/Erxsdev/Black-Cat-GIFs/blob/5a6252cf97948c7d3e31873528561ce32ae1ed71/black-cat.gif" width="28px"> <img width="50%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Deniz."><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=Erxsdev&color=151515">
 
-###
+<div align="center">
 
-<div align="center">  
+<p align="center">
+ <a href="https://discord.com/users/852103749228036136" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/erxsdev" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/31n7eykgj7uxh46fxivw3r2sjwxa" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://www.instagram.com/erxsdev/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
-###
+## • About Me
 
-<p align="left">I’m a 19-year-old IT specialist living in Turkey, with 8-9 years of experience in software development. I aim to build my future as a computer engineer. I’m passionate about advancing technology and solving complex problems. Currently, I’m working on advanced management systems, cross-platform applications, and innovative software solutions.</p>
+<samp>
+Hello, I'm Deniz! I'm a passionate Full-Stack Web & Desktop Backend Developer based in Turkey, with 8-9 years of experience in software development. I thrive on creating innovative solutions and tackling new projects, constantly expanding my skills with fresh ideas. My goal is to shape a future as a leading computer engineer.<br /><br />
+</samp>
 
-###
+## • Technologies I use
 
+<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,nodejs,ts,cs,py,arduino,mongodb,mysql,html,css,tailwind,react,npm,express,ps,figma,git,gitlab&theme=dark&perline=7">
 
+## • My Stats
 
-###
+<img width="25%" align="left" src="https://github.com/Erxsdev/Erxsderv-Profile-More/blob/0f8be44879b522fd97be7077eb2405446be3e51c/monthelt.png">
 
-<div align="center">  
+<br />
 
-###
+<div align="center" width="100%">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=erxsdev&theme=dark&hide_border=true&include_all_commits=true&count_private=false">
+<img width="40%" src="https://nirzak-streak-stats.vercel.app/?user=erxsdev&theme=dark&hide_border=true">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erxsdev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+
+<h2 align="left" > • I'm Listening Right Now </h2>
+
+<img  align="center" width="40%" src="https://count.getloli.com/get/@:Erxsdev?theme=asoul">
