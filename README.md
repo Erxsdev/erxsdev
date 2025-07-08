@@ -26,7 +26,7 @@ Hello, I'm Deniz! I'm a passionate Full-Stack Web & Desktop Backend Developer ba
 
 <div align="center" width="100%">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=erxsdev&theme=dark&hide_border=true&include_all_commits=true&count_private=false">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=erxsdev">
 <img width="40%" src="https://nirzak-streak-stats.vercel.app/?user=erxsdev&theme=dark&hide_border=true">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erxsdev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 
