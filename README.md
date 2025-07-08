@@ -20,7 +20,7 @@ Hello, I'm Deniz! I'm a passionate Full-Stack Web & Desktop Backend Developer ba
 
 ## • My Stats
 
-<img width="25%" align="left" src="https://github.com/Erxsdev/erxsdev/blob/9515e4039b55b012d3f9f947ef5e47ce42789f90/monthelt.png">
+<img width="25%" align="left" src="https://github.com/Erxsdev/erxsdev/blob/4eb83619e68a860b0b1506b7e5c847ff19b4f16a/cat-awareness.png">
 
 <br />
 
