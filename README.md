@@ -20,7 +20,7 @@ Hello, I'm Deniz! I'm a passionate Full-Stack Web & Desktop Backend Developer ba
 
 ## • My Stats
 
-<img width="25%" align="left" src="https://github.com/Erxsdev/erxsdev/blob/4eb83619e68a860b0b1506b7e5c847ff19b4f16a/cat-awareness.png">
+<img width="35%" align="left" src="https://github.com/Erxsdev/erxsdev/blob/fdd66a95118e467f6c2dbd48be7d467c405b2f9e/cat-awareness.png">
 
 <br />
 
@@ -30,6 +30,6 @@ Hello, I'm Deniz! I'm a passionate Full-Stack Web & Desktop Backend Developer ba
 <img width="40%" src="https://nirzak-streak-stats.vercel.app/?user=erxsdev&theme=dark&hide_border=true">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erxsdev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 
-<h2 align="left" >                          • I'm Listening Right Now </h2>
+<h2 align="center" >                          • I'm Listening Right Now </h2>
 
 <img  align="center" width="40%" src="https://count.getloli.com/get/@:Erxsdev?theme=asoul">
