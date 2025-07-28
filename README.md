@@ -11,7 +11,7 @@
 ## • About Me
 
 <samp>
-Hello, I'm Deniz! I'm a passionate Full-Stack Web & Desktop Backend Developer based in Turkey, with 8-9 years of experience in software development. I thrive on creating innovative solutions and tackling new projects, constantly expanding my skills with fresh ideas. My goal is to shape a future as a leading computer engineer.<br /><br />
+Hello, I'm Deniz! I'm a passionate Full-Stack Web & Desktop Backend Developer based in Turkey, with 7-8 years of experience in software development. I thrive on creating innovative solutions and tackling new projects, constantly expanding my skills with fresh ideas. My goal is to shape a future as a leading computer engineer.<br /><br />
 </samp>
 
 ## • Technologies I use
