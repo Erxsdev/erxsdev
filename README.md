@@ -16,7 +16,7 @@ Hello, I'm Deniz! I'm a passionate Full-Stack Web & Desktop Backend Developer ba
 
 ## • Technologies I use
 
-<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,nodejs,ts,cs,py,arduino,mongodb,mysql,html,css,tailwind,react,npm,express,ps,figma,git,gitlab&theme=dark&perline=7">
+<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,nodejs,cs,py,arduino,mongodb,mysql,html,css,npm,express,ps,figma,git,gitlab&theme=dark&perline=7">
 
 ## • My Stats
 
