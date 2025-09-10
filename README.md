@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/maximjsx/fancy-readme-stats" target="_blank">
+<img src="https://stats.maximjsx.com/api?username=maximjsx&title=Maxim.jsx&description=Добре%20дошли&theme=forest&dark_bg=3&hide_border=false&height=230&footer=Made%20by%20Maxim.jsx%20·%20Click%20me%20to%20add%20this%20card%20to%20your%20readme%20as%20well%20😎&include_all_commits=true&update=2">
+  </a>
+</div>
+
 # <img src="https://github.com/Erxsdev/erxsdev/blob/9515e4039b55b012d3f9f947ef5e47ce42789f90/black-cat.gif" width="28px"> <img width="50%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Deniz."><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=Erxsdev&color=151515">
 
 <div align="center">
