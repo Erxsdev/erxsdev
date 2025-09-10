@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/maximjsx/fancy-readme-stats" target="_blank">
-<img src="https://stats.maximjsx.com/api?username=erxsdev&title=Erxsdev&description=Добре%20дошли&theme=snow&dark_bg=3&hide_border=false&height=230&footer=denemeinclude_all_commits=true&update=2">
+<img src="https://stats.maximjsx.com/api?username=erxsdev&title=Erxsdev&description=Добре%20дошли&theme=snow&dark_bg=3&hide_border=true&height=230&footer=deneme&include_all_commits=true&update=2">
   </a>
 </div>
 
